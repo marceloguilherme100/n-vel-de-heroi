@@ -1,6 +1,3 @@
-Aqui está um exemplo de um **README.md** para o projeto. Ele segue um formato profissional e amigável para repositórios no GitHub:
-
----
 
 # Classificador de Nível de Herói 🦸‍♂️🦸‍♀️
 
@@ -25,7 +22,7 @@ Um simples projeto em HTML, CSS e JavaScript que classifica o nível de um heró
 ## 🎮 Como Usar
 1. Faça o download ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/classificador-heroi.git
+   git clone (https://github.com/marceloguilherme100/n-vel-de-heroi/tree/main)
    ```
 2. Navegue até a pasta do projeto:
    ```bash
@@ -62,25 +59,8 @@ classificador-heroi/
 
 ---
 
-## 🌟 Prévia do Projeto
-<img src="https://via.placeholder.com/800x400.png?text=Preview+do+Projeto" alt="Prévia do projeto" />
-
----
-
-## 📂 Licença
-Este projeto é de uso livre e está sob a licença MIT. Sinta-se à vontade para usar e modificar como desejar.
-
----
-
-## 🤝 Contribuições
-Contribuições são bem-vindas! Se você tiver ideias para melhorar este projeto, abra um *pull request* ou envie sugestões na seção de *Issues*.
-
----
-
----
+-
 
 ### 🎉 Divirta-se classificando heróis! 🚀
 
----
 
-Se quiser personalizar mais ou incluir links e imagens, me avise! 😊
