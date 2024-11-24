@@ -1,0 +1,67 @@
+/* Definições globais */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background: url('https://wallpaperaccess.com/full/2009974.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  /* Container principal */
+  .container {
+    background: rgba(0, 0, 0, 0.6); /* Fundo escuro semitransparente */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Estilo para o título */
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  /* Labels e inputs */
+  label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  /* Botão */
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  /* Resultado */
+  #resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
